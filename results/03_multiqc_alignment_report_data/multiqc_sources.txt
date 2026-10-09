@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+Samtools	stats	Sample_A	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_A.stats.txt
+Samtools	stats	Sample_B	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_B.stats.txt
+Samtools	stats	Sample_C	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_C.stats.txt
+Samtools	stats	Sample_D	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_D.stats.txt
+Samtools	flagstat	Sample_A	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_A.flagstat.txt
+Samtools	flagstat	Sample_B	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_B.flagstat.txt
+Samtools	flagstat	Sample_C	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_C.flagstat.txt
+Samtools	flagstat	Sample_D	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_D.flagstat.txt
+Samtools	coverage	Sample_A.coverage	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_A.coverage.txt
+Samtools	coverage	Sample_B.coverage	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_B.coverage.txt
+Samtools	coverage	Sample_C.coverage	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_C.coverage.txt
+Samtools	coverage	Sample_D.coverage	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_alignment/Sample_D.coverage.txt

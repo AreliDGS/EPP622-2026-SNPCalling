@@ -1,0 +1,9 @@
+Sample	samtools_stats-error_rate	samtools_stats-non_primary_alignments	samtools_stats-reads_mapped	samtools_stats-reads_mapped_percent	samtools_stats-reads_properly_paired_percent	samtools_stats-reads_MQ0_percent	samtools_stats-raw_total_sequences	samtools_stats-insert_size_average	samtools_flagstat-flagstat_total	samtools_flagstat-mapped_passed	samtools_flagstat-mapped_passed_pct	samtools_coverage-numreads	samtools_coverage-covbases	samtools_coverage-coverage	samtools_coverage-meandepth	samtools_coverage-meanbaseq	samtools_coverage-meanmapq
+Sample_A	0.2239324	0.0	1.6093	100.0	100.0	3.655191698253899	1.6093	348.2	1.6093	1.6093	100.0						
+Sample_A.coverage												1.6093	12.070801999999999	99.99565153642607	19.99542332357688	36.39999999999999	57.37703051015273
+Sample_B	0.2249931	0.0	0.32186	100.0	100.0	3.695395513577332	0.32186	348.3	0.32186	0.32186	100.0						
+Sample_B.coverage												0.32186	11.839476	98.07933891644547	3.9992369631596394	36.39999999999999	57.37404009302706
+Sample_C	0.2251711	0.0	1.5772579999999998	100.0	99.99987319766329	3.839004145168387	1.5772579999999998	348.2	1.5772579999999998	1.5772579999999998	100.0						
+Sample_C.coverage												1.5772579999999998	12.070834999999999	99.99593065135512	16.44391702492336	36.60000000000001	57.266164852146325
+Sample_D	4.22513	0.0	1.6093	100.0	99.99975144472752	3.7401976014416207	1.6093	348.2	1.6093009999999999	1.6093009999999999	100.0						
+Sample_D.coverage												1.6093009999999999	12.070881	99.99631960865773	19.1271640940026	21.300000000000004	57.296006180265536

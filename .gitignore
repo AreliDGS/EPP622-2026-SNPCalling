@@ -1,0 +1,11 @@
+data/raw/
+results/01_initial_qc/
+results/02_trimmed/
+results/03_alignment/
+results/04_variant_calling/
+results/05_filtering/
+*.log
+*.zip
+index.html
+ASCIIGenome*
+!results/06_evaluation/

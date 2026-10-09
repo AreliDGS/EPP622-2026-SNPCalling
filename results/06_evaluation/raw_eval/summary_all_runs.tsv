@@ -1,0 +1,5 @@
+label	sample	tag	truth_snps	truth_het	truth_hom	tp	fp	fn	precision	recall	f1	recall_het	recall_hom	gt_concordance	ref_dropout	allelic_dropout	hom_called_het	alt_mismatch	indels_this_sample	fn_zero_depth	fn_median_depth	fn_hard	hom_ref_gt	missing_gt	haploid_gt	diploid_gt	records	removed_by_threshold	pass_only	min_qual	min_dp	min_gq
+Sample_A_raw	results/03_alignment/Sample_A.sorted.bam	raw	5000	2954	2046	4875	0	125	1.0000	0.9750	0.9873	0.9739	0.9765	0.9990	5	77	0	0	0	0	NA	1	38	7	0	4875	4920	0	0	NA	NA	NA
+Sample_B_raw	results/03_alignment/Sample_B.sorted.bam	raw	5000	2954	2046	4422	23	578	0.9948	0.8844	0.9364	0.8375	0.9521	0.9156	373	480	0	0	0	0	NA	59	366	109	0	4445	4920	0	0	NA	NA	NA
+Sample_C_raw	results/03_alignment/Sample_C.sorted.bam	raw	5000	2954	2046	4871	2	129	0.9996	0.9742	0.9867	0.9729	0.9761	0.9984	8	80	0	0	0	0	NA	4	35	12	0	4873	4920	0	0	NA	NA	NA
+Sample_D_raw	results/03_alignment/Sample_D.sorted.bam	raw	5000	2954	2046	4859	15	141	0.9969	0.9718	0.9842	0.9695	0.9751	0.9975	12	90	0	0	0	0	NA	5	39	7	0	4874	4920	0	0	NA	NA	NA

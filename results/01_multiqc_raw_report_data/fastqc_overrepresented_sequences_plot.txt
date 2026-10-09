@@ -1,0 +1,9 @@
+Sample	Top overrepresented sequence
+Sample_A_R1	0.0
+Sample_A_R2	0.0
+Sample_B_R1	0.0
+Sample_B_R2	0.0
+Sample_C_R1	1.7186354315540917
+Sample_C_R2	1.7147828248306716
+Sample_D_R1	0.0
+Sample_D_R2	0.0

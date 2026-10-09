@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Sample_A_R1	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_A_R1.trimmed_fastqc.zip
+FastQC	all_sections	Sample_A_R2	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_A_R2.trimmed_fastqc.zip
+FastQC	all_sections	Sample_B_R1	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_B_R1.trimmed_fastqc.zip
+FastQC	all_sections	Sample_B_R2	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_B_R2.trimmed_fastqc.zip
+FastQC	all_sections	Sample_C_R1	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_C_R1.trimmed_fastqc.zip
+FastQC	all_sections	Sample_C_R2	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_C_R2.trimmed_fastqc.zip
+FastQC	all_sections	Sample_D_R1	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_D_R1.trimmed_fastqc.zip
+FastQC	all_sections	Sample_D_R2	/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_fastqc_trimmed/Sample_D_R2.trimmed_fastqc.zip

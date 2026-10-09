@@ -1,0 +1,9 @@
+Sample	Unique Reads	Duplicate Reads
+Sample_A_R1	789745.0	14905.0
+Sample_A_R2	790168.0	14482.0
+Sample_B_R1	159759.0	1171.0
+Sample_B_R2	159826.0	1104.0
+Sample_C_R1	774439.0	30211.0
+Sample_C_R2	774921.0	29729.0
+Sample_D_R1	793981.0	10669.0
+Sample_D_R2	795700.0	8950.0

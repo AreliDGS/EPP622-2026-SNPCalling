@@ -1,0 +1,5 @@
+Sample	Mapped (with MQ>0)	MQ0
+Sample_A	1550477.0	58823.0
+Sample_B	309966.0	11894.0
+Sample_C	1516707.0	60551.0
+Sample_D	1549109.0	60191.0

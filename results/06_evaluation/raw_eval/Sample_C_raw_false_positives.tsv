@@ -1,0 +1,3 @@
+chrom	pos	ref	alt	called_gt	qual	dp	gq	filter
+NC_001137.3	42	C	A	0/1	3.2	1	NA	.
+NC_001140.6	213873	C	G	0/1	4.6	1	NA	.
