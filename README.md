@@ -45,10 +45,10 @@ Reflexion of learning bioinformatics and the impact of AI in education
 
 The following path locations target the report files:
 
-*   **Pre-trimming MultiQC Report:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/01_multiqc_raw_report.html`
-*   **Post-trimming MultiQC Report:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/02_multiqc_trimmed_report.html`
-*   **BWA-MEM2 Alignment MultiQC Report:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/03_multiqc_alignment_report.html`
-*   **BCFtools Stats - RAW SNP Set:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/04_variant_calling/yeast_data.raw.stats.txt`
-*   **BCFtools Stats - GENTLE Filtered Set:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/05_filtering/yeast_data.gentle.stats.txt`
-*   **BCFtools Stats - STRINGENT Filtered Set:** `/nfs/home/agonza84/EPP622-2026-SNPCalling/results/05_filtering/yeast_data.stringent.stats.txt`
+*   **Pre-trimming MultiQC report:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/01_multiqc_raw_report.html`
+*   **Post-trimming MultiQC report:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/02_multiqc_trimmed_report.html`
+*   **BWA-MEM2 alignment MultiQC report:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/03_multiqc_alignment_report.html`
+*   **BCFtools stats - RAW SNP set:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/04_variant_calling/yeast_data.raw.stats.txt`
+*   **BCFtools stats - GENTLE filtered set:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/05_filtering/yeast_data.gentle.stats.txt`
+*   **BCFtools stats - STRINGENT filtered set:** `/lustre/isaac24/proj/UTK0505/agonza84/EPP622-2026-SNPCalling/results/05_filtering/yeast_data.stringent.stats.txt`
 
